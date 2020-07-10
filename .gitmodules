@@ -1,0 +1,3 @@
+[submodule "rctf2020"]
+	path = rctf2020
+	url = https://github.com/tr3ee/RCTF2020.git
